@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0108/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 善思童子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0479.xml
+    old_id: T14n0479
+hash: sha256:fb56c75c2d5dbedd832aa80f31a5acc5efde0541cdcb19834a34b1461ddc3c1c

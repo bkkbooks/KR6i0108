@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6i0108/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0108/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 善思童子經
+  identifiers:
+    krp: KR6i0108
+    cbeta: T14n0479
+    cbeta_old_id: T14n0479
+    authorityid: CA0002911
+    json_key: T0479
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0479.xml
+    old_id: T14n0479
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0108_000-T.yaml, hash: 'sha256:fb56c75c2d5dbedd832aa80f31a5acc5efde0541cdcb19834a34b1461ddc3c1c'}
+  - {seq: 1, filename: KR6i0108_001-T.yaml, hash: 'sha256:82ce5598295a6869d22b6d2e810241fbd35ac633d77ae21cd55cc08e61e321fc'}
+  - {seq: 2, filename: KR6i0108_002-T.yaml, hash: 'sha256:d6d31d15f051e8c43615b1b77cc5976e97c821f56740c2e0b620900a96bd4fad'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0108_000-T.markers.yaml, hash: 'sha256:a2d1d3765e20e8792d1d4f800507a3d9f8e6b7a91e0868d4a389f5fa28d6dd74'}
+  - {seq: 1, role: markers, filename: assets/KR6i0108_001-T.markers.yaml, hash: 'sha256:6b30629f537b4289ed8f4ba8081a0aa18f8c31d1a9b18a57101dc71f018520be'}
+  - {seq: 2, role: markers, filename: assets/KR6i0108_002-T.markers.yaml, hash: 'sha256:a01940053d3b41c4188a85f9569e8a414c91ec2f49803fb0aea7b32e5ab921a2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0108_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4864
+  label: 善思童子經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0108_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4682
+  label: 善思童子經卷下
+  type: juan
+  level: 1
+hash: sha256:7677bda28999829d460e3004849def87e58c984867874eba7de2d281e6573585

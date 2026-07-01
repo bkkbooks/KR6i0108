@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR6i0108/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6i0108_T_000-0605b19, ed: T, 'n': 0605b19}
+  - {type: line-break, offset: 0, content: '', id: KR6i0108_T_000-0605b20, ed: T, 'n': 0605b20}
+  - {type: line-break, offset: 0, content: '', id: KR6i0108_T_000-0605b21, ed: T, 'n': 0605b21}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0108_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0108_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0108_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0108_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0108_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '9', id: KR6i0108_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '[', id: KR6i0108_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0108_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0108_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: s, id: KR6i0108_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0108_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0108_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0108_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0108_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: ',', id: KR6i0108_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0108_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0108_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '8', id: KR6i0108_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6i0108_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6i0108_T_000-0605b22, ed: T, 'n': 0605b22}
+  body: []
+  back: []
+hash: sha256:a2d1d3765e20e8792d1d4f800507a3d9f8e6b7a91e0868d4a389f5fa28d6dd74
